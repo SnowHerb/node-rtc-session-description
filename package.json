@@ -10,10 +10,10 @@
   "license": "unlicense",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shimaore/node-rtcsessiondescription.git"
+    "url": "https://github.com/shimaore/node-rtc-session-description.git"
   },
   "bugs": {
-    "url": "https://github.com/shimaore/node-rtcsessiondescription/issues"
+    "url": "https://github.com/shimaore/node-rtc-session-description/issues"
   },
-  "homepage": "https://github.com/shimaore/node-rtcsessiondescription"
+  "homepage": "https://github.com/shimaore/node-rtc-session-description"
 }
