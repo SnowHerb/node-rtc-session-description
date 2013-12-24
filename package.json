@@ -1,5 +1,5 @@
 {
-  "name": "RTCSessionDescription",
+  "name": "rtc-session-description",
   "version": "0.0.0",
   "description": "RTCSessionDescription for Node.js",
   "main": "index.js",
